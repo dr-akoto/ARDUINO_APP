@@ -1,0 +1,16 @@
+.dashboard {
+    padding: 20px;
+  }
+  
+  .chart-container {
+    width: 80%;
+    margin: 0 auto;
+    height: 400px;
+  }
+  
+  .map-container {
+    height: 500px;
+    width: 100%;
+    margin-top: 20px;
+  }
+  

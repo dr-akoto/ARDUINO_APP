@@ -1,0 +1,42 @@
+/* Basic layout and styling for the report form */
+.report-container {
+    padding: 30px;
+    background-color: #f9f9f9;
+    width: 60%;
+    margin: 0 auto;
+    border-radius: 10px;
+  }
+  
+  /* Report form layout */
+  .report-form {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  /* Text area and input fields */
+  textarea, input[type="text"], input[type="file"] {
+    margin-bottom: 15px;
+    padding: 10px;
+    font-size: 16px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+  }
+  
+  /* Submit button styling */
+  button[type="submit"] {
+    background-color: #4CAF50;
+    color: white;
+    padding: 12px;
+    font-size: 16px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  /* Message styling */
+  .message {
+    margin-top: 20px;
+    color: #0066cc;
+    font-weight: bold;
+  }
+  

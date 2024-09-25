@@ -1,0 +1,42 @@
+.home-container {
+    text-align: center;
+    padding: 50px;
+    background-color: #f5f5f5;
+  }
+  
+  .hero {
+    padding: 30px;
+    background-color: #4CAF50;
+    color: white;
+  }
+  
+  .hero h1 {
+    font-size: 3rem;
+  }
+  
+  .btn-primary, .btn-secondary {
+    margin: 10px;
+    padding: 12px 24px;
+    border-radius: 8px;
+    color: white;
+  }
+  
+  .btn-primary {
+    background-color: #0066cc;
+  }
+  
+  .btn-secondary {
+    background-color: #ff9800;
+  }
+  
+  .features {
+    display: flex;
+    justify-content: space-around;
+    padding: 40px;
+  }
+  
+  .feature-item {
+    flex: 1;
+    margin: 0 20px;
+  }
+  

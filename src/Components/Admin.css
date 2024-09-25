@@ -1,0 +1,21 @@
+/* Admin panel container styling */
+.admin-container {
+    padding: 40px;
+  }
+  
+  /* Reports table styling */
+  .reports-table table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  .reports-table th, td {
+    border: 1px solid #ddd;
+    padding: 12px;
+    text-align: left;
+  }
+  
+  .reports-table th {
+    background-color: #f4f4f4;
+  }
+  
